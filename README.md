@@ -1,0 +1,2 @@
+# JavaPracticePrograms
+"Weekly assignments"
